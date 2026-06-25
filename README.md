@@ -1,70 +1,80 @@
-# Getting Started with Create React App
+<p align="center">
+ <h1 align="center">Hi 👋, I'm Ayan Shahid</h1>
+<h3 align="center">Full Stack Developer | HTML • CSS • JavaScript</h3>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+🌐 I'm a passionate self-taught full stack developer from Pakistan, building responsive and interactive web applications.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+### 🔧 Technologies I work with
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+### 📈 Currently Learning
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Node.js & Backend Development
+- ReactJS
+- NextJS
+- ExpressJS
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 💬 Ask Me About
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+HTML, CSS, JavaScript, ReactJS, NextJS, ExpressJS, NodeJS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+### 🚀 Portfolio
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Check out my work: [ayanqureshi16.github.io/Ayan-Portfolio](https://ayanqureshi16.github.io/My-Portfolio/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 📄 My CV / Resume
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+[View My Resume (Upload link needed!)](https://your-cv-link-here.com)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 📫 Reach Me
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Email:** [ayanshahd1612@gmail.com](mailto:ayanshahd1612@gmail.com)
+- **GitHub:** [AyanQureshi16](https://github.com/AyanQureshi16)
+- **Instagram:** [ayanqureshi1256](https://www.instagram.com/ayanqureshi1256/)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### ✨ Fun Fact
 
-### Analyzing the Bundle Size
+I love turning ideas into clean and creative web designs!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+### 📊 Contribution Graph
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+[![AyanQureshi16's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyanQureshi16&theme=dracula)](https://github.com/AyanQureshi16)
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyanQureshi16&show_icons=true&theme=radical" alt="Ayan's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyanQureshi16&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanQureshi16&layout=compact&theme=radical" height="120"/>
+</p>
